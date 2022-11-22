@@ -34,11 +34,11 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickloeber&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickloeber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickloeber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[twitter]: https://twitter.com/python_engineer
-[youtube]: http://youtube.com/c/pythonengineer
+[twitter]: https://twitter.com/patloeber
+[youtube]: http://youtube.com/@patloeber
 [website]: https://www.python-engineer.com/
 [devto]: https://dev.to/python_engineer
 [instagram]: https://www.instagram.com/patloeber/
