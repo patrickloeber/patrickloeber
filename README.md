@@ -3,11 +3,11 @@
 [<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
 [<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
-## I'm a Software Engineer and YouTuber
+## I'm a Software Engineer, YouTuber, and Developer Advocate
 
-- Creator of the [Python Engineer][youtube] YouTube channel 
+- 200K+ subsribers on [YouTube][youtube] 
 - I create free educational content about Python and Machine Learning
-- On my channel you find complete FREE courses about Python, PyTorch, TensorFlow, and much more
+- On my channel you find FREE courses about Python, PyTorch, TensorFlow, and much more
 - I also post articles on my [Website][website]
 - If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
