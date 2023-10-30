@@ -9,7 +9,7 @@
 - I create free educational content about Python and Machine Learning
 - On my channel you find FREE courses about Python, PyTorch, TensorFlow, and much more
 - I also post articles on my [Website][website]
-- If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
+- If you want to connect with more Python and ML enthusiasts you can join my [Discord server][discord]
 - For most tutorials the corresponding code is here on GitHub
 
 If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
