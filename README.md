@@ -1,20 +1,22 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][pats-website] Hi I'm Patrick
-[<img height="30" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
-[<img height="30" src = "https://img.shields.io/badge/Youtube-%23E4405F.svg?&style=for-the-badge&logo=Youtube&logoColor=white">][Youtube] 
-[<img height="30" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][pats-website]
+# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Patrick
 
-## I'm a Software Engineer, YouTuber, and Developer Advocate
+- [patloeber.com](https://www.patloeber.com)
+- [twitter](https://x.com/patloeber)
+- [youtube](http://youtube.com/@patloeber)
+- [linkedin](https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137)
+
+## I'm a Software Engineer, Teacher, and Developer Advocate
+
+I'm a Developer Relations Engineer at Google DeepMind. I care deeply about developer experience and help to improve working with our AI models, APIs, and SDKs.
+
+I also teach coding and AI topics, and create free educational content on YouTube and my blog:
 
 - 250K+ subscribers on [YouTube][youtube] 
-- I create free educational content about Python and Machine Learning
 - On my channel you find FREE courses about Python, PyTorch, TensorFlow, and much more
-- I also post articles on my [Website][website]
-- If you want to connet with more Python and ML enthusiasts you can join my [Discord server][discord]
+- Blog posts on my [website](https://www.patloeber.com)
 - For most tutorials the corresponding code is here on GitHub
 
-If you enjoy my content, I would be very happy if you [subscribe](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
-
----
+If you enjoy my content, I'd be happy if you [subscribed](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 ## Popular YouTube Videos 📺 
 
@@ -27,39 +29,15 @@ If you enjoy my content, I would be very happy if you [subscribe](https://www.yo
 
 ➡️ [More videos...][youtube]
 
----
-
-## My GitHub Stats 💻
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickloeber&hide=java,html,css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patrickloeber&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-
 [twitter]: https://twitter.com/patloeber
 [youtube]: http://youtube.com/@patloeber
-[website]: https://www.python-engineer.com/
-[pats-website]: https://www.patloeber.com/
-[devto]: https://dev.to/python_engineer
-[instagram]: https://www.instagram.com/patloeber/
-[discord]: https://discord.gg/FHMg9tKFSN
-
----
+[linkedin]: https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137
+[website]: https://www.patloeber.com
 
 ## Connect With Me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
-
----
-## Support Me!
-You can show support by starring my repos, liking and sharing my videos, and [subscribing](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel.
-
-If you really, really, really enjoy my work, you can also support me on [Patreon](https://www.patreon.com/patrickloeber).
-
-Thank you all so much 🙏
