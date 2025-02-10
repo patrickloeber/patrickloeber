@@ -7,7 +7,7 @@
 
 ## I'm a Software Engineer, Teacher, and Developer Advocate
 
-I'm a Developer Relations Engineer at Google DeepMind. I care deeply about developer experience and help to improve working with our AI models, APIs, and SDKs.
+I'm a Developer Relations Engineer at Google DeepMind, focused on improving the developer experience with our AI models, APIs, and SDKs.
 
 I also teach coding and AI topics, and create free educational content on YouTube and my blog:
 
@@ -15,8 +15,6 @@ I also teach coding and AI topics, and create free educational content on YouTub
 - On my channel you find FREE courses about Python, PyTorch, TensorFlow, and much more
 - Blog posts on my [website](https://www.patloeber.com)
 - For most tutorials the corresponding code is here on GitHub
-
-If you enjoy my content, I'd be happy if you [subscribed](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 ## Popular YouTube Videos 📺 
 
@@ -27,7 +25,7 @@ If you enjoy my content, I'd be happy if you [subscribed](https://www.youtube.co
 - [OOP In Python Crash Course](https://youtu.be/-pEs-Bss8Wc)
 - [Snake Game In Python](https://youtu.be/M_npdRYD4K0)
 
-➡️ [More videos...][youtube]
+If you enjoy my content, I'd be happy if you [subscribed](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
 
 [twitter]: https://twitter.com/patloeber
 [youtube]: http://youtube.com/@patloeber
