@@ -1,8 +1,8 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Patrick</h1>
+### Hi 👋, I'm Patrick
 
 I code, build, and teach.
 
-I'm a DevRel Engineer at Google DeepMind, focused on improving the developer experience with our AI models.
+I'm a Dev Rel Engineer at Google DeepMind, focused on improving the developer experience with our AI models.
 
 I also teach coding and AI topics on [YouTube](http://youtube.com/@patloeber) and my [blog](https://www.patloeber.com).
 
