@@ -1,41 +1,28 @@
-# [<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">][website] Hi I'm Patrick
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Patrick</h1>
 
-- [patloeber.com](https://www.patloeber.com)
-- [twitter](https://x.com/patloeber)
-- [youtube](http://youtube.com/@patloeber)
-- [linkedin](https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137)
+I code, build, and teach.
 
-## I'm a Software Engineer, Teacher, and Developer Advocate
+I'm a DevRel Engineer at Google DeepMind, focused on improving the developer experience with our AI models.
 
-I'm a Developer Relations Engineer at Google DeepMind, focused on improving the developer experience with our AI models, APIs, and SDKs.
+I also teach coding and AI topics on [YouTube](http://youtube.com/@patloeber) and my [blog](https://www.patloeber.com).
 
-I also teach coding and AI topics, and create free educational content on YouTube and my blog:
+### Learn Python and AI
 
-- 250K+ subscribers on [YouTube][youtube] 
-- On my channel you find FREE courses about Python, PyTorch, TensorFlow, and much more
-- Blog posts on my [website](https://www.patloeber.com)
-- For most tutorials the corresponding code is here on GitHub
-
-## Popular YouTube Videos 📺 
+On my channel you can learn about Python, PyTorch, TensorFlow, and much more:
 
 - [Intermediate Python Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
 - [PyTorch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
 - [ML From Scratch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
 - [Chatbot With PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
 - [OOP In Python Crash Course](https://youtu.be/-pEs-Bss8Wc)
-- [Snake Game In Python](https://youtu.be/M_npdRYD4K0)
+- [Reinforcement Learning Tutorial](https://youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV&si=YhrK6_QRavIYx7Z0)
 
-If you enjoy my content, I'd be happy if you [subscribed](https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA?sub_confirmation=1) to my channel 😊
+For most tutorials the corresponding code is here on GitHub.
 
-[twitter]: https://twitter.com/patloeber
-[youtube]: http://youtube.com/@patloeber
-[linkedin]: https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137
-[website]: https://www.patloeber.com
+### Connect With Me
 
-## Connect With Me:
-
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](http://youtube.com/@patloeber)
+[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/patloeber)
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137)
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.patloeber.com)
 
