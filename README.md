@@ -1,4 +1,4 @@
-### Hi 👋, I'm Patrick
+## Hi 👋, I'm Patrick
 
 I code, build, and teach.
 
