@@ -21,8 +21,5 @@ For most tutorials the corresponding code is here on GitHub.
 
 ### Connect With Me
 
-[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](http://youtube.com/@patloeber)
-[<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/patloeber)
-[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137)
-[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.patloeber.com)
+[@patloeber](https://x.com/patloeber) • [YouTube](http://youtube.com/@patloeber) • [LinkedIn](https://www.linkedin.com/in/patrick-l%C3%B6ber-403022137)
 
