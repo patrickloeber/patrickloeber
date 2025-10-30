@@ -8,16 +8,14 @@ I also teach coding and AI topics on [YouTube](http://youtube.com/@patloeber) an
 
 ### Learn Python and AI
 
-On my channel you can learn about Python, PyTorch, TensorFlow, and much more:
-
-- [Intermediate Python Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
-- [PyTorch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
-- [ML From Scratch Course](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
-- [Chatbot With PyTorch](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
-- [OOP In Python Crash Course](https://youtu.be/-pEs-Bss8Wc)
-- [Reinforcement Learning Tutorial](https://youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV&si=YhrK6_QRavIYx7Z0)
-
-For most tutorials the corresponding code is here on GitHub.
+- Build with Gemini workshop: [repo](https://github.com/patrickloeber/workshop-build-with-gemini)
+- Gen AI tutorials: [repo](https://github.com/patrickloeber/genai-tutorials)
+- PyTorch Course: [repo](https://github.com/patrickloeber/pytorchTutorial), [videos](https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mfPGpqQDSta6VK4)
+- ML From Scratch Course: [repo](https://github.com/patrickloeber/MLfromscratch), [videos](https://www.youtube.com/playlist?list=PLqnslRFeH2Upcrywf-u2etjdxxkL8nl7E)
+- Reinforcement Learning Tutorial: [repo](https://github.com/patrickloeber/snake-ai-pytorch), [videos](https://youtube.com/playlist?list=PLqnslRFeH2UrDh7vUmJ60YrmWd64mTTKV&si=YhrK6_QRavIYx7Z0)
+- Intermediate Python Course: [repo](https://github.com/patrickloeber/python-engineer-notebooks), [videos](https://www.youtube.com/playlist?list=PLqnslRFeH2UqLwzS0AwKDKLrpYBKzLBy2)
+- Chatbot With PyTorch: [repo](https://github.com/patrickloeber/pytorch-chatbot), [videos](https://www.youtube.com/playlist?list=PLqnslRFeH2UrFW4AUgn-eY37qOAWQpJyg)
+- OOP In Python Crash Course: [videos](https://youtu.be/-pEs-Bss8Wc)
 
 ### Connect With Me
 
