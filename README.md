@@ -2,7 +2,7 @@
 
 I code, build, and teach.
 
-I'm a Dev Rel Engineer at Google DeepMind, focused on improving the developer experience with our AI models.
+I'm a Member of Technical Staff at Google DeepMind, focused on improving the developer experience with our AI models.
 
 I also teach coding and AI topics on [YouTube](http://youtube.com/@patloeber) and my [blog](https://www.patloeber.com).
 
